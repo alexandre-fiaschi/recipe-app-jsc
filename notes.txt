@@ -5,3 +5,7 @@ reproduction of the bug:
 1. search for something in the search bar
 2. move to next page, ex 2 or 3
 3. when search for another recipie the page will be kept there and dont recap to the first page
+
+
+Previous build command
+parcel build index.html --dist-dir ./dist
